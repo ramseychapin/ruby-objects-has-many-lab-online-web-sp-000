@@ -17,5 +17,6 @@ class Post
     if author
       self.author.name
     end
+  end
 
 end
