@@ -1,6 +1,8 @@
 class Post
 
-  def initialize(title, )
+  def initialize(title)
+    @titile = title
+    @@all = []
 
 
 end
