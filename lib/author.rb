@@ -9,7 +9,7 @@ class Author
   end
 
   def add_post(title)
-    
+    @posts << self
   end
 
 end
